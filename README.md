@@ -8,7 +8,7 @@
 * [References](#references)
 ---
 ## General info
-This project is a reference 
+This project is a reference to MSSQL techniques and uses.
 
 ---
 ## Technologies
